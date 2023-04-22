@@ -27,7 +27,7 @@
 | operation_time | operation time of vehicle(unit: hour)       | 24      |
 | gps_id         | id of gps equipment                                         | G_1     |
 
-#### Route Map （route_info.csv）：
+#### Route Map (route_info.csv):
 
 | Column           | Description                                     | Example                              |
 | ---------------- | ----------------------------------------------- | ------------------------------------ |
@@ -37,7 +37,7 @@
 | distance         | distance of the route (unit: km)                | 76.0                                 |
 | time             | transportation time of the route (unit: second) | 10140                                |
 
-#### Factory （factory_info.csv）： 
+#### Factory (factory_info.csv):
 
 | Column     | Description                                                  | Example                          |
 | ---------- | ------------------------------------------------------------ | -------------------------------- |
